@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div> 
 
 ## About me
-- 🌍 I'm an Argentinian currently living in Germany 🙂 
+- 🌍 I'm currently living between Argentina and Germany. 🙂 
 - 🎓 I am a drilling engineer and a recent web developer.
 - 🧬 I'm passionate about learning new skills.
 - 👯 I’m open for web developer positions as well as collaborations in open source projects
