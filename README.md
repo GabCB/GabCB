@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - 🌍 I'm currently living between Argentina and Germany. 🙂 
 - 🎓 I'm a drilling engineer and a recent web developer.
 - 🧬 I'm passionate about learning new skills.
-- 👯 I’m open for web developer positions as well as collaborations in open source projects
-- 🗣️ I like learning languages
+- 👯 I’m open for web developer positions as well as collaborations in open source projects.
+- 🗣️ I like learning languages.
 - ⚡ Fun fact: When not coding, I'm knitting.
 
 ## Skills
