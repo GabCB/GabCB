@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Skills
 - Frontend
-  - HTML , CSS, JavaScript, Typescript, Bootstrap, React, Angular
+  - HTML , CSS, JavaScript, Typescript, React, Angular, Canvas Sketch
  
 - Backend
   - Node.js, Express, MongoDB, REST API, AWS, Firebase, Postman
